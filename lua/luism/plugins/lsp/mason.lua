@@ -17,7 +17,7 @@ return {
 				"eslint",
 				"jdtls",
 				"clangd",
-				"sqlls",
+				"sqls",
 			},
 			-- jdtls is started manually by nvim-jdtls (ftplugin/java.lua), so don't let
 			-- mason-lspconfig auto-enable it -- that would spawn a second, unconfigured
