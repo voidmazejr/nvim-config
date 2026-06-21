@@ -1,0 +1,10 @@
+# macOS
+.DS_Store
+
+# Neovim / Vim swap & backup files
+*.swp
+*.swo
+*~
+
+# NOTE: lazy-lock.json is intentionally NOT ignored.
+# Tracking it lets you roll back plugin updates (`:Lazy restore`).
